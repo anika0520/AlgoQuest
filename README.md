@@ -164,7 +164,7 @@ AlgoQuest aims to help learners:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/algoquest.git
+git clone https://github.com/anika0520/algoquest.git
 ```
 
 ### 2. Open the project folder
